@@ -1,0 +1,86 @@
+[
+  {
+    "Nazwa": "Rak żołądka1",
+    "ICD_10": "111111111111111111",
+    "Cel_Diagnostyki_Genetycznej": "2222222222222222222211111",
+    "Badania_Genetyczne": "333333333333333333333333",
+    "Metodyka_Badawcza": "444444444444444444444444444444",
+    "Material": "55555555555555555555555555",
+    "Sposob_Finansowania": "66666666663333331111116666666666666666",
+    "Leki_W_Programie_Lekowym": "77777777777777777777777",
+    "Sposob_Podania_Leku": "88888888888888888888888888",
+    "Nr_Zal_MZ": "99999999999999999999999"
+  },
+  {
+    "Nazwa": "Rak żołądka2",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  },
+  {
+    "Nazwa": "Rak żołądka3",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  },
+  {
+    "Nazwa": "Rak żołądka4",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  },
+  {
+    "Nazwa": "Rak żołądka5",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  },
+  {
+    "Nazwa": "Rak żołądka6",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  },
+  {
+    "Nazwa": "Rak żołądka7",
+    "ICD_10": "C16",
+    "Cel_Diagnostyki_Genetycznej": "Kwalifikacja do terapii celowanych, Diagnostyka różnicowa",
+    "Badania_Genetyczne": "Sekwencjonowanie DNA",
+    "Metodyka_Badawcza": "Endoskopia, Tomografia komputerowa",
+    "Material": "Biopsja żołądka",
+    "Sposob_Finansowania": "Ubezpieczenie zdrowotne",
+    "Leki_W_Programie_Lekowym": "Omeprazol",
+    "Sposob_Podania_Leku": "Doustnie",
+    "Nr_Zal_MZ": "54321/2023"
+  }
+]
